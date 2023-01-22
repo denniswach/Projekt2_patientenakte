@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AllPatientFunction1671996827": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7068",
+      "launchBrowser": false
+    }
+  }
+}

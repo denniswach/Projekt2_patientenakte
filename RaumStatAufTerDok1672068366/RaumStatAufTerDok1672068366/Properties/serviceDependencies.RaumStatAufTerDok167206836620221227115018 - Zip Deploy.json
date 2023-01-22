@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "apis1": {
+      "apiEndpoint": "https://wippatientenakte.azure-api.net/s3",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/wippatientenakte/apis/raumstataufterdok",
+      "type": "apis.azure"
+    }
+  }
+}

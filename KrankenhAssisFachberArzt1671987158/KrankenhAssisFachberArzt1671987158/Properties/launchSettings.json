@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "KrankenhAssisFachberArzt1671987158": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7260",
+      "launchBrowser": false
+    }
+  }
+}
